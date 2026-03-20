@@ -1,16 +1,16 @@
 # My First Game Lists
 
 ## 주별 게임 개발 요약
-1. week_01.md : 벽 충돌 테스트
+1. week_01.md :
 2. week_02.md :
-3. week_02.md :  
----
+3. week_03.md : 벽 충돌 테스트
+--- 
 ## Practice01 Game
 1. 제목 :
 2. 파일 : week_01.md / 
 3. 요약 :
 ---
-## Practice02 Game
+## Practice02 Game 
 1. 제목 : 
 2. 파일 : week_02.md
 3. 요약 :
