@@ -20,4 +20,4 @@
 2. 파일 : week_03.md / hello_pygame.py
 3. 요약 : 키보드를 움직여서 원을 이동하는 게임
 
-mail : <goodswc@hanmail.net>
+mail : <20260189@vision_hoseo_edu.com>
