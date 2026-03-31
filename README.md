@@ -4,6 +4,7 @@
 1. week_01.md :
 2. week_02.md :
 3. week_03.md : 벽 충돌 테스트
+4. week_04.md : 원형,OBB,AABB 충돌 테스트
 --- 
 ## Practice01 Game
 1. 제목 :
@@ -19,5 +20,8 @@
 1. 제목 : 벽 충돌 테스트
 2. 파일 : week_03.md / hello_pygame.py
 3. 요약 : 키보드를 움직여서 원을 이동하는 게임
+
+## Practice04 Game
+1
 
 mail : <20260189@vision_hoseo_edu.com>
